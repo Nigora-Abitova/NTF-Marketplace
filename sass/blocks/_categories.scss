@@ -1,0 +1,37 @@
+.categories{
+    color: white;
+    margin-top: 180px;
+}
+
+.categories__title{
+font-size: 38px;
+font-weight: 600;
+line-height: 45.6px;
+text-align: left;
+margin-left: 60px;
+}
+
+.categories__list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 60px;
+    margin-top: 70px;
+}
+
+.categories__item{
+    background: #3B3B3B;
+    width: 240px;
+height: 316px;
+border-radius: 20px;
+}
+
+.categories__text{
+font-size: 22px;
+font-weight: 600;
+line-height: 30.8px;
+text-align: left;
+margin-top: 20px;
+margin-left: 20px;
+}

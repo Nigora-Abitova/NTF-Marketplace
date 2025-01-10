@@ -1,0 +1,110 @@
+.hero {
+    color: white;
+}
+
+.hero__wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.hero__title {
+    width: 510px;
+    height: 220px;
+    font-size: 63px;
+    font-weight: 600;
+    line-height: 73.7px;
+    text-align: left;
+
+}
+
+.hero__text {
+    width: 510px;
+    height: 105px;
+    font-size: 21.5px;
+    font-weight: 400;
+    line-height: 35.2px;
+    text-align: left;
+    margin: 20px 0;
+}
+
+.hero__btn {
+    padding: 12px 35px 12px 35px;
+    gap: 12px;
+    border-radius: 20px;
+    background: #A259FF;
+    color: white;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 35px;
+    margin-bottom: 30px;
+}
+
+.hero__btn-img {
+    width: 20px;
+}
+
+.hero__sub-title {
+
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 39.2px;
+    text-align: left;
+}
+
+.hero__list {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+
+.hero__item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.hero__sub-text {
+    font-size: 23.99px;
+    font-weight: 400;
+    line-height: 38.38px;
+    text-align: left;
+}
+
+.hero__card {
+    width: 510px;
+    height: 540px;
+    background: #3B3B3B;
+    border-radius: 20px;
+}
+
+.hero__mini-title {
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 30.8px;
+    text-align: left;
+}
+
+.hero__mini-text{
+font-size: 16px;
+font-weight: 400;
+line-height: 22.4px;
+text-align: left;
+}
+
+.hero__mini-box{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-top: 15px;
+    
+}
+
+.hero__name{
+    margin-top: 30px;
+    margin-left: 20px;
+}
